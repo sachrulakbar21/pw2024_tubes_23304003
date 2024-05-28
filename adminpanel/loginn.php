@@ -28,6 +28,10 @@
     .nama-toko {
         justify-content: center;
     }
+
+    .container h2 {
+        cursor: pointer;
+    }
 </style>
 
 <body>
