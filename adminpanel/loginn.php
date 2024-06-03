@@ -82,13 +82,13 @@
                     ?>  
                     <div class="alert alert-warning" role="alert">
                             Akun Tidak Ditemukan
-                    </div
+                    </div>
                     <?php
                 }
             
             }
             ?>
-        </div>
+         </div>
     </div>
 </body>
 </html>
